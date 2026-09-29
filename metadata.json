@@ -1,0 +1,9 @@
+{
+  "name": "PawRoute - Dog Walker GPS, Scheduling & Pet Care Platform",
+  "description": "Professional dog walking management platform with live GPS route tracking, booking & scheduling, instant photo gallery, client messaging, payments, and pet visit reports.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
